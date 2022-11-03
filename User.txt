@@ -1,0 +1,5 @@
+mz,mz,mz,/Users/mzr/Desktop/fall 2021/swe 320/lab/project/face_PNG5645.png,mz,7/16/21,mz,mz 
+mz1,mz,mz,/Users/mzr/Desktop/fall 2021/swe 320/lab/project/face_PNG5658.png,bio,7/16/21,ad,mz1 
+sewit,sewit,sewit,/Users/mzr/Desktop/fall 2021/swe 320/lab/project/face_PNG5645.png,i am happy,7/16/21,ad,sewit 
+reem,reem,reem,/Users/mzr/Desktop/fall 2021/swe 320/lab/project/face_PNG5645.png,i am happy,7/16/21,adh,reem:sewit
+lulu,lulu,lulu,/Users/mzr/Desktop/fall 2021/swe 320/lab/project/face_PNG5645.png,i am happy,7/16/21,london,lulu:sewit:reem
